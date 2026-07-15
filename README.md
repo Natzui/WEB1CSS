@@ -127,8 +127,6 @@ This project demonstrates:
 
 **Course:** Web Systems and Technologies
 
-**School:** Saint Michael College of Caraga
-
 ---
 
 ## License
